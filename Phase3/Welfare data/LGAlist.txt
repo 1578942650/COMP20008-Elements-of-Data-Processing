@@ -1,0 +1,631 @@
+City of Melbourne
+Carlton 3053 
+Carlton North 3054 (Shared with City of Yarra) 
+East Melbourne 3002 
+Jolimont 
+Flemington 3031 (Shared with City of Moonee Valley) 
+Kensington 3031 (Shared with City of Moonee Valley) 
+Melbourne 3000 (Central business district) 
+Melbourne 3004 (St Kilda Road area, shared with City of Port Phillip) 
+North Melbourne 3051 (Shared with City of Moonee Valley) 
+Port Melbourne 3207 (Shared with City of Port Phillip) 
+Fishermans Bend 
+Parkville 3052 
+Southbank 3006 (Shared with City of Port Phillip) 
+South Yarra 3141 (Shared with City of Stonnington) 
+West Melbourne 3003 
+Coode Island 
+World Trade Centre 3005 
+See Melbourne central business district for locations in the CBD.
+
+Docklands
+Currently separate from any Local Government Area, Docklands will eventually merge with the City of Melbourne.
+
+Docklands 3008 
+Batman's Hill 
+Digital Harbour 
+NewQuay 
+Victoria Harbour 
+Waterfront City 
+Yarra's Edge 
+
+City of Port Phillip
+Albert Park 3206 (Shared with City of Melbourne) 
+Balaclava 3183 
+Elwood 3184 
+Melbourne 3004 (St Kilda Road area, shared with City of Melbourne) 
+Middle Park 3206 
+Port Melbourne 3207 (Shared with City of Melbourne) 
+Beacon Cove 
+Garden City 
+Ripponlea 3185 
+St Kilda 3182 
+St Kilda East 3183 (Shared with City of Glen Eira) 
+St Kilda West 3182 
+Southbank 3006 (Shared with City of Melbourne) 
+South Melbourne 3205 
+
+City of Yarra
+Abbotsford 3067 
+Alphington (Shared with City of Darebin) 3078 
+Burnley 3121 
+Carlton North (Shared with City of Melbourne) 3054 
+Clifton Hill 3068 
+Collingwood 3066 
+Cremorne 3121 
+Fairfield (Shared with City of Darebin) 3078 
+Yarra Bend 
+Fitzroy 3065 
+Fitzroy North 3068 
+Princes Hill 3054 
+Richmond 3121 
+
+Northern Municipalities & their suburbs
+
+
+City of Banyule
+Bellfield 3081 
+Briar Hill 3088 
+Bundoora 3083 (Shared with City of Darebin and City of Whittlesea) 
+Eaglemont 3084 
+Eltham North 3095 (Shared with Shire of Nillumbik) 
+Greensborough 3088 (Shared with Shire of Nillumbik) 
+Heidelberg 3084 
+Heidelberg Heights 3081 
+Heidelberg West 3081 
+Ivanhoe 3079 
+Ivanhoe East 3079 
+Lower Plenty 3093 
+Macleod 3085 (Shared with City of Darebin) 
+Macleod West 
+Montmorency 3094 
+Rosanna 3084 
+St Helena 3088 
+Viewbank 3084 
+Watsonia 3087 
+Watsonia North 3087 
+Yallambie 3085 
+
+City of Darebin
+Alphington 3078 (Shared with City of Yarra) 
+Bundoora 3083 (Shared with City of Banyule and City of Whittlesea) 
+Mt Cooper 
+Fairfield 3078 (Shared with City of Yarra) 
+Kingsbury 3083 
+Macleod 3085 (Shared with City of Banyule) 
+Northcote 3070 
+Westgarth 3070 (part of Northcote) 
+Preston 3072 
+Regent 
+Reservoir 3073 
+Regent 
+Thornbury 3071 
+
+City of Hume
+Attwood 3049 
+Broadmeadows 3047 
+Bulla 3428 
+Campbellfield 3061 
+Clarkefield 3430 (Shared with Macedon Ranges Shire) 
+Coolaroo 3048 
+Craigieburn 3064 
+Dallas 3047 
+Gladstone Park 3043 
+Greenvale 3059 
+Jacana 3047 
+Kalkallo 3064 
+Keilor 3036 (Shared with City of Brimbank) 
+Meadow Heights 3048 
+Melbourne Airport 3045 
+Mickleham 3064 
+Konagaderra Springs 
+Oaklands Junction 3063 
+Oaklands Park 
+Roxburgh Park 3064 
+Somerton 3062 
+Sunbury 3429 
+Jacksons Hill 
+Goonawarra 
+Tullamarine 3043 (Shared with City of Brimbank and City of Moreland) 
+Westmeadows 3049 
+Wildwood 3429 
+Yuroke 3063 
+
+City of Moonee Valley
+Aberfeldie 3040 
+Airport West 3042 
+Ascot Vale 3032 
+Ascot Vale West 
+Avondale Heights 3034 
+Essendon 3040 
+Essendon North 3041 
+Essendon West 3040 
+Flemington, Victoria 3031 (Shared with City of Melbourne) 
+Newmarket 
+Keilor East 3033 (Shared with City of Brimbank) 
+Kensington 3031 (Shared with City of Melbourne) 
+Moonee Ponds 3039 
+Niddrie 3042 
+Strathmore 3041 
+Strathmore Heights 3041 
+Travancore 3032 
+
+City of Moreland
+Brunswick 3056 
+Brunswick East 3057 
+Brunswick West 3055 
+Moonee Vale 
+Coburg 3058 
+Coburg North 3058 
+Merlynston 
+Newlands 
+Fawkner 3060 
+Glenroy 3046 
+Westbreen 
+Gowanbrae 3043 
+Hadfield 3046 
+Oak Park 3046 
+Pascoe Vale 3044 
+Pascoe Vale South 3044 
+Coonans Hill 
+Tullamarine 3043 (Shared with City of Brimbank and City of Hume) 
+
+Shire of Nillumbik
+Bend of Islands 3097 
+Christmas Hills 3775 
+Rob Roy 
+Cottles Bridge 3099 
+Diamond Creek 3089 
+Doreen 3754 (Shared with City of Whittlesea) 
+Eltham 3095 
+Eltham North 3095 (Shared with City of Banyule) 
+Greensborough 3088 (Shared with City of Banyule) 
+Hurstbridge 3099 
+Midhurst 
+Kinglake 3763 (Shared with Murrindindi Shire) 
+Kangaroo Ground 3097 
+Watsons Creek 
+Nutfield 3099 
+Panton Hill 3759 
+Plenty 3090 
+Research 3095 
+Smiths Gully 3760 
+St Andrews 3761 
+North Warrandyte 3113 
+Wattle Glen 3096 
+Yan Yean 3755 (Shared with City of Whittlesea) 
+Yarrambat 3091 
+
+City of Whittlesea
+Bundoora 3083 (Shared with City of Banyule and City of Darebin) 
+Doreen 3754 (Shared with Shire of Nillumbik) 
+Laurimar 
+Eden Park 3757 
+Epping 3076 
+Epping North 
+Lalor 3075 
+Mernda 3754 
+Mill Park 3082 
+South Morang 3752 
+Thomastown 3074 
+Wollert 3750 
+Woodstock 3755 
+Yan Yean 3755 (Shared with Shire of Nillumbik) 
+Whittlesea 3757 
+
+Eastern Municipalities & their suburbs
+
+
+City of Boroondara
+Ashburton 3147 
+Balwyn 3103 
+Deepdene 
+Balwyn North 3104 
+Bellevue 
+Greythorn 
+Camberwell 3124 
+Hartwell 
+Canterbury 3126 
+Glen Iris 3146 (Shared with City of Stonnington) 
+Hawthorn 3122 
+Glenferrie 
+Hawthorn East 3123 
+Kew 3101 
+Kew East 3102 
+Mont Albert (Shared with City of Whitehorse) 
+Surrey Hills 3127 (Shared with City of Whitehorse) 
+
+City of Knox
+Bayswater 3153 
+Boronia 3155 
+Ferntree Gully 3156 
+Knoxfield 3180 
+Lysterfield 3156 
+Rowville 3178 
+Scoresby 3179 
+The Basin 3154 
+Wantirna 3152 
+Wantirna South 3152 
+
+City of Manningham
+Bulleen 3105 
+Doncaster 3108 
+Doncaster East 3109 
+Donvale 3111 
+Park Orchards 3114 
+Templestowe 3106 
+Templestowe Lower 3107 
+Warrandyte 3113 
+Warrandyte South 3134 
+Wonga Park 3115 
+
+City of Maroondah
+Bayswater North 3153 
+Croydon 3136 
+Croydon Hills 3136 
+Croydon North 3136 
+Croydon South 3136 
+Heathmont 3135 
+Kilsyth South 3137 
+Ringwood 3134 
+Ringwood East 3135 
+Ringwood North 3134 
+Warranwood 3134 
+
+City of Whitehorse
+Blackburn 3130 
+Laburnum 
+Bellbird 
+Blackburn North 3130 
+Blackburn South 3130 
+Box Hill 3128 
+Box Hill North 3129 
+Kerrimuir 
+Box Hill South 3128 
+Houston 
+Burwood 3125 
+Bennettswood 
+Wattle Park 
+Burwood East 3151 
+Tally Ho 
+Forest Hill 3131 
+Mitcham 3132 
+Heatherdale 
+Mont Albert 3127 (Shared with City of Boroondara) 
+Nunawading 3131 
+Surrey Hills 3127 (Shared with City of Boroondara) 
+Vermont 3133 
+Vermont South 3133 
+
+Shire of Yarra Ranges
+Badger Creek 3777 
+Belgrave 3160 
+Belgrave Heights 3160 
+Belgrave South 3160 
+Chirnside Park 3116 
+Chum Creek 3777 
+Coldstream 3770 
+Dixons Creek 3775 
+Don Valley 3139 
+Ferntree Gully Upper 3156 
+Ferny Creek 3786 
+Gruyere 3770 
+Healesville 3777 
+Hoddles Creek 3139 
+Kallista 3791 
+Kalorama 3766 
+Kilsyth 3137 
+Launching Place 3139 
+Lilydale 3140 
+Macclesfield 3782 
+Menzies Creek 3159 
+Millgrove 3799 
+Monbulk 3793 
+Montrose 3765 
+Mooroolbark 3138 
+Mount Dandenong 3767 
+Mount Evelyn 3796 
+Narre Warren East 3804 
+Olinda 3432 
+Sassafras 3787 
+Selby 3159 
+Seville 3139 
+Seville East 3139 
+Sherbrooke 3789 
+Silvan 3795 
+Steels Creek 3775 
+Tarrawarra 3775 
+Tecoma 3160 
+The Patch 3792 
+Tremont 3785 
+Upwey 3158 
+Wandin East 3139 
+Wandin North 3139 
+Warburton 3799 
+Warburton East 3799 
+Wesburn 3799 
+Woori Yallock 3139 
+Yarra Glen 3775 
+Yarra Junction 3797 
+Yellingbo 3139 
+Yering 3770 
+
+Southeastern Municipalities & their suburbs
+
+
+City of Bayside
+Beaumaris 3193 
+Black Rock 3193 
+Brighton 3186 
+Brighton East 3187 
+Cheltenham (Shared with City of Kingston) 3192 
+Hampton 3188 
+Hampton East 3189 
+Highett 3190 
+Sandringham 3191 
+
+Shire of Cardinia
+Avonsleigh 3782 
+Bayles 3981 
+Beaconsfield 3807 
+Beaconsfield Upper 3808 
+Beenak 
+Bunyip 3815 
+Caldermeade 3984 
+Cardinia 3978 
+Catani 3981 
+Clematis 3782 
+Cockatoo 3781 
+Cora Lynn 3814 
+Dalmore 3981 
+Dewhurst 
+Emerald 3782 
+Garfield 3814 
+Gembrook 3783 
+Guys Hill 3807 
+Iona 3815 
+Koo Wee Rup 3981 
+Lang Lang 3984 
+Maryknoll 3812 
+Menzies Creek 3159 
+Modella 3816 
+Monomeith 3984 
+Mount Burnett 3781 
+Nangana 3781 
+Nar Nar Goon 3812 
+Officer 3809 
+Pakenham 3810 
+Tenby Point 3984 
+Tonimbuk 3815 
+Toomuc Valley 3810 
+Tooradin North 3977 
+Tynong 3813 
+
+City of Casey
+Berwick 3806 
+Blind Bight 3980 
+Cannons Creek 3977 
+Clyde 3978 
+Clyde North 3978 
+Cranbourne 3977 
+Cranbourne East 3977 
+Cranbourne North 3977 
+Cranbourne South 3977 
+Cranbourne West 3977 
+Devon Meadows 3977 
+Doveton 3177 
+Endeavour Hills 3802 
+Eumemmerring 3177 
+Five Ways 3977 
+Hallam 3803 
+Hampton Park 3976 
+Harkaway 3806 
+Junction Village 3977 
+Lynbrook 3975 
+Lysterfield South 3156 
+Narre Warren 3805 
+Narre Warren North 3804 
+Narre Warren South 3805 
+Pearcedale 3912 
+Tooradin 3980 
+Warneet 3980 
+
+City of Greater Dandenong
+Bangholme 3175 
+Dandenong 3175 
+Dandenong North 3175 
+Dandenong South 3175 
+Keysborough 3173 
+Lyndhurst 3975 
+Noble Park 3174 
+Noble Park North 3174 
+Springvale 3171 
+Springvale South 3172 
+
+City of Frankston
+Carrum Downs 3201 
+Frankston 3199 
+Karingal 
+Frankston North 3200 
+Frankston South 3199 
+Langwarrin 3910 
+Skye 3977 
+Seaford 3198 
+Kananook 
+
+City of Glen Eira
+Bentleigh 3204 
+Bentleigh East 3165 
+Caulfield 3162 
+Caulfield East 3145 
+Caulfield North 3161 
+Caulfield South 3162 
+Carnegie 3163 
+Elsternwick 3185 
+Gardenvale 3185 
+Glen Huntly 3163 
+McKinnon 3204 
+Murrumbeena 3163 
+Ormond 3204 
+
+City of Kingston
+Aspendale 3195 
+Aspendale Gardens 3195 
+Bonbeach 3197 
+Braeside 3195 
+Carrum 3197 
+Chelsea 3196 
+Chelsea Heights 3196 
+Cheltenham (Shared with City of Bayside) 3192 
+Clarinda 3169 
+Clayton South 3169 
+Dingley Village 3172 
+Edithvale 3196 
+Heatherton 3202 
+Highett (Shared with City of Bayside) 3190 
+Mentone 3194 
+Moorabbin 3189 
+Moorabbin Airport 3194 
+Mordialloc 3195 
+Parkdale 3194 
+Patterson Lakes 3197 
+Waterways 3195 
+
+City of Monash
+Ashwood 3147 
+Chadstone 3148 
+Clayton 3168 
+Glen Waverley 3150 
+Hughesdale 3166 
+Huntingdale 3166 
+Monash University 3800 
+Mount Waverley 3149 
+Mulgrave 3170 
+Notting Hill 3168 
+Oakleigh 3166 
+Oakleigh East 3166 
+Oakleigh South 3167 
+Wheelers Hill 3150 
+
+Shire of Mornington Peninsula
+Arthurs Seat 3936 
+Balnarring 3926 
+Balnarring Beach 3926 
+Baxter 3911 
+Bittern 3918 
+Blairgowrie 3942 
+Boneo 3939 
+Cape Schanck 3939 
+Crib Point 3919 
+Dromana 3936 
+Flinders 3929 
+Hastings 3915 
+HMAS Cerberus 3920 
+Main Ridge 3928 
+Merricks 3916 
+Merricks Beach 3926 
+Merricks North 3926 
+Moorooduc 3933 
+Mornington 3931 
+Mount Eliza 3930 
+Mount Martha 3934 
+Point Leo 3916 
+Portsea 3944 
+Red Hill 3059 
+Red Hill South 3937 
+Rosebud 3939 
+Rosebud West 3940 
+Rye 3941 
+Safety Beach 3936 
+Shoreham 3916 
+Somers 3927 
+Somerville 3912 
+Sorrento 3943 
+Tootgarook 3941 
+Tyabb 3913 
+
+City of Stonnington
+Armadale 3143 
+Glen Iris (Shared with City of Boroondara) 3146 
+Kooyong 3144 
+Malvern 3144 
+Malvern East 3145 
+Prahran 3181 
+South Yarra 3141 
+Toorak 3142 
+Windsor 3181 
+
+Western Municipalities & their suburbs
+
+
+City of Brimbank
+Albion 3020 
+Ardeer 3022 
+Cairnlea 3023 
+Calder Park 3037 
+Deer Park 3023 
+Delahey 3037 
+Derrimut 3030 
+Kealba 3021 
+Keilor (Shared with City of Hume) 3036 
+Keilor Downs 3038 
+Keilor North 3036 
+Keilor Park 3042 
+Kings Park 3021 
+St Albans 3021 
+Sunshine 3020 
+Sunshine North 3020 
+Sunshine West 3020 
+Sydenham 3037 
+Taylors Lakes 3038 
+
+City of Hobsons Bay
+Altona 3018 
+Altona Meadows 3028 
+Altona North 3025 
+Brooklyn (part) 3012 
+Laverton (Shared with City of Wyndham) 3028 
+Newport 3015 
+Spotswood 3015 
+Seabrook 3028 
+Seaholme 3018 
+South Kingsville 3015 
+Williamstown 3016 
+Williamstown North 3016 
+
+City of Maribyrnong
+Braybrook 3019 
+Footscray 3011 
+Kingsville 3012 
+Maidstone 3012 
+Maribyrnong 3032 
+Seddon 3011 
+Tottenham 3012 
+West Footscray 3012 
+Yarraville 3013 
+
+Shire of Melton
+Brookfield 3338 
+Burnside 3023 
+Caroline Springs 3023 
+Diggers Rest 3427 
+Hillside 3037 
+Kurunjang 3337 
+Melton 3337 
+Melton South 3338 
+Melton West 3337 
+Ravenhall 3023 
+Rockbank 3335 
+Taylors Hill 3037 
+Truganina 3029 
+
+City of Wyndham
+Hoppers Crossing 3029 
+Laverton North 3026 
+Mambourin 3024 
+Point Cook 3030 
+Tarneit 3029 
+Truganina 3029 
+Werribee 3030 
+Werribee South 3030 
+Wyndham Vale 3024 
